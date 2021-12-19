@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+a,a:hover {
+        text-decoration:none;
+        color:#000;
+       }
+.big {
+   font-style:italic;
+   font-weight:normal;
+}
+
+h1 {font-size: 48px;}
